@@ -32,9 +32,6 @@ The Employee Management System is a comprehensive solution designed to streamlin
 The Employee Management System is a comprehensive and user-friendly application designed to streamline and simplify the process of managing employees within an organization. This system provides an efficient and organized way to handle various employee-related tasks, from onboarding and attendance tracking to performance evaluation and payroll management.
 
 
-## Live Preview
-
-To preview this project please visit https://hrms.shawon-khan.com/
 
 
 ## User Interface
